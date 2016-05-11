@@ -234,3 +234,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+**/src/[Aa]ngular2/wwwroot/[Ll]ibs/*
+**/src/[Aa]ngular2/wwwroot/app/typescripts/compiledscripts

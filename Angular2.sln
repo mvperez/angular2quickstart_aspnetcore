@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{44A696E7-5A91-42E0-9057-AA736D900A37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A25DE50C-7DD5-4D62-BBE5-F116FBE33F55}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Angular2", "src\Angular2\Angular2.xproj", "{D8EBD11D-C342-4B8E-A313-F00DEEF7A880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8EBD11D-C342-4B8E-A313-F00DEEF7A880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EBD11D-C342-4B8E-A313-F00DEEF7A880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EBD11D-C342-4B8E-A313-F00DEEF7A880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EBD11D-C342-4B8E-A313-F00DEEF7A880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8EBD11D-C342-4B8E-A313-F00DEEF7A880} = {44A696E7-5A91-42E0-9057-AA736D900A37}
+	EndGlobalSection
+EndGlobal
